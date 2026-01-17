@@ -18,11 +18,11 @@ In order to make the taskbar look better, it's best that you install the 'Taskba
 
 ```json
 {
-  "IconSize": 30,
-  "TaskbarHeight": 70,
+  "IconSize": 32,
+  "TaskbarHeight": 52,
   "TaskbarButtonWidth": 44,
-  "IconSizeSmall": 20,
-  "TaskbarButtonWidthSmall": 30
+  "IconSizeSmall": 16,
+  "TaskbarButtonWidthSmall": 32
 }
 ```
 </details>
